@@ -1,0 +1,46 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Headers */
+
+#pageHeader {
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  background-image: url("../pattern.webp");
+  text-align: center;
+}
+
+#brushesHeader {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: mediumspringgreen;
+  margin-bottom: 25px;
+}
+
+#framesHeader {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: lightcoral;
+  margin-bottom: 25px;
+  margin-top: 45px;
+}
+
+#paintHeader {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: skyblue;
+  margin-bottom: 25px;
+  margin-top: 45px;
+}
+
+/* Article Content */
+
+.articleLink {
+  font-weight: bold;
+  color: blue;
+}
